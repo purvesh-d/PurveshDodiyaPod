@@ -1,6 +1,6 @@
 
 public class MyClass  {
-    public var fruits = "DragonFruit"
+    public var fruits = "Apple"
     
     public init() {
         
