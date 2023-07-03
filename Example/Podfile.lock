@@ -1,0 +1,16 @@
+PODS:
+  - PurveshDodiyaPod (1.0.0)
+
+DEPENDENCIES:
+  - PurveshDodiyaPod
+
+SPEC REPOS:
+  trunk:
+    - PurveshDodiyaPod
+
+SPEC CHECKSUMS:
+  PurveshDodiyaPod: e526185f7154d071d066e7b579d40bde5a1ce025
+
+PODFILE CHECKSUM: 5683585c9b98ffa57008fd66f3d0e40499d06a39
+
+COCOAPODS: 1.12.1
